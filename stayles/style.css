@@ -1,3 +1,5 @@
+
+
 * {
     margin: 0;
     padding: 0;
@@ -14,4 +16,28 @@ ul {
 
 header {
     background-color: #0020F4;
+}
+
+nav , ul li,a {
+    display: inline-block;
+}
+
+li a {
+    margin: 20px;
+}
+
+div p {
+    margin: 15px;
+    text-align: center;
+}
+
+span {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+section p {
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 }
